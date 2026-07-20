@@ -34,12 +34,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tolaa27&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolaa27&layout=compact&theme=tokyonight" alt="top langs" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tolaa27&theme=tokyonight" alt="streak" />
-</p>
+</p> -->
 
 ---
 
