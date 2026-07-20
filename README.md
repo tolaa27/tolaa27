@@ -36,6 +36,13 @@
 
 ---
 
+## 活動記録 (Activity)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tolaa27&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
 ## クエスト (Featured Projects)
 - [ai_tools_project](https://github.com/tolaa27/ai_tools_project) — AI tools collection
 - [php_assigments](https://github.com/tolaa27/php_assigments) — PHP assignments
