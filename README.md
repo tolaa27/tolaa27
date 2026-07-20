@@ -1,24 +1,30 @@
-<h1 align="center">「 Tola.exe 」🐯</h1>
+<!-- ===== ANIME HEADER ===== -->
 <p align="center">
-  <em>Student Developer • Open to Work • YouTube Creator ⚔️</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=%E3%80%8C+Tola.exe+%E3%80%8D;Student+Developer;Code+x+Anime+x+Chaos;Open+to+Work" alt="typing" />
 </p>
 
 <p align="center">
-  💻 Code × 🎌 Anime × ⚡ Always Leveling Up
+  <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" width="400" alt="anime coding" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tolaa27&label=Visitors&color=f75c7e&style=for-the-badge" alt="visitors" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 I'm a **student developer** building my main character dev arc
-- 💼 **Open for job opportunities** — let's build something great together!
-- 📺 I create **coding & tech videos on YouTube**
-- 🐧 Into Linux ricing (Arch • Hyprland • Meowrch dots)
-- ⚡ Special move: *Debug Slash* — errors don't stand a chance
+## 主人公 (The Protagonist)
+
+
+- Student dev on my main character arc
+- Open for job quests — let's team up
+- I post coding & tech content on YouTube
+- Arch Linux ricer (Hyprland, Meowrch dots)
+- Ultimate move: Debug Slash — one strike, zero errors
 
 ---
 
-## 🛠️ Tech Stack
+## 武器 (Arsenal)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React_(TSX)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,32 +36,35 @@
 
 ---
 
-## 📊 GitHub Stats
+## 戦闘力 (Power Level)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolaa27&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolaa27&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tolaa27&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tolaa27&theme=tokyonight" alt="streak" />
-</p> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolaa27&layout=compact&theme=radical&cache_seconds=1800" alt="top langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolaa27&theme=radical" alt="streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tolaa27&theme=dracula&row=1&column=6" alt="trophies" />
+</p>
 
 ---
 
-## 🎬 Featured Projects
-- 🤖 **[ai_tools_project](https://github.com/tolaa27/ai_tools_project)** — collection of AI tools (HTML)
-- 🐘 **[php_assigments](https://github.com/tolaa27/php_assigments)** — PHP practice & assignments
-- 🔮 **[meowrch](https://github.com/tolaa27/meowrch)** — beautiful Arch Linux dotfiles (Hyprland/bspwm)
+## クエスト (Featured Projects)
+- [ai_tools_project](https://github.com/tolaa27/ai_tools_project) — AI tools collection
+- [php_assigments](https://github.com/tolaa27/php_assigments) — PHP assignments
+- [meowrch](https://github.com/tolaa27/meowrch) — beautiful Arch dotfiles
 
 ---
 
-## 🌐 Connect With Me
+## ギルド (Connect)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tolaexe-tsx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikitopcam@gmail.com)
 
 ---
 
 <p align="center">
-  <code>💼 Open to work • 📺 Watch my journey on YouTube • 🐯 Tola.exe</code>
+  <code>「 次回もお楽しみに 」 — See you in the next episode</code>
 </p>
