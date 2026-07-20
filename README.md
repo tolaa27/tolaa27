@@ -43,6 +43,13 @@
 
 ---
 
+## 🎬 Featured Projects
+- 🤖 **[ai_tools_project](https://github.com/tolaa27/ai_tools_project)** — collection of AI tools (HTML)
+- 🐘 **[php_assigments](https://github.com/tolaa27/php_assigments)** — PHP practice & assignments
+- 🔮 **[meowrch](https://github.com/tolaa27/meowrch)** — beautiful Arch Linux dotfiles (Hyprland/bspwm)
+
+---
+
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tolaexe-tsx)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harikitopcam@gmail.com)
