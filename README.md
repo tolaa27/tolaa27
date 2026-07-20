@@ -36,22 +36,6 @@
 
 ---
 
-## 戦闘力 (Power Level)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolaa27&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolaa27&layout=compact&theme=radical&cache_seconds=1800" alt="top langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolaa27&theme=radical" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tolaa27&theme=dracula&row=1&column=6" alt="trophies" />
-</p>
-
----
-
 ## クエスト (Featured Projects)
 - [ai_tools_project](https://github.com/tolaa27/ai_tools_project) — AI tools collection
 - [php_assigments](https://github.com/tolaa27/php_assigments) — PHP assignments
